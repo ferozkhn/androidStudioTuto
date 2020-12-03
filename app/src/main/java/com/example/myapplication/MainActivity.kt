@@ -37,6 +37,8 @@ class MainActivity : AppCompatActivity() {
 
 
             //sndlfjnsdfnhsdfhbnsdfhnslnflsnflksnflksnclksnclksh fshj ljkc hsfh oshf ishf osahfsahfohasofhaso;ifh asohfsa
+            // This is a comment in line 40
+
         }
     }
 }
